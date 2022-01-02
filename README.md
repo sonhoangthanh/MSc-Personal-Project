@@ -33,7 +33,7 @@ To run pretrained model application, run:
 
 `python3 application.py`
 
-Please make sure that the pretrained model is appropriately named and can be found using the pth provided in model_path variable.;
+Please make sure that the pretrained model is appropriately named and can be found using the path provided in 'model_path' variable;
 ## Testing
 
 The components of the model can be tested using pytest unit testing placed in the *./tests*. To run the test, run:
